@@ -87,9 +87,3 @@ plt.show()
 
 # RESULTS:
 Thus The QPSK (Quadratic Phase Shift Keying) is performed using python.
-
-```
-# Results
-```
-Attach the output waveform
-```
